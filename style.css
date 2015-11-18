@@ -290,6 +290,43 @@ h6 {
     height: 100%;
 }
 
+.porch {
+/*
+    background: url('/images/porchswing.png') no-repeat;
+    background-size: 'cover';
+    background-position: 'center center';
+*/
+    width: 300px;
+    height: 200px; 
+    margin: 0 auto;
+    padding-bottom: 10px;
+}
+
+.devvit {
+/*
+    
+    background: url('/images/porchswing.png') no-repeat;
+    background-size: 'cover';
+    background-position: 'center center';
+*/
+    width: 300px;
+    height: 200px; 
+    margin: 0 auto;
+}
+
+.porchimg {
+    width: 300px;
+    height: auto;
+}
+
+.devvitimg {
+    width: 300px;
+    height: auto;
+}
+
+
+
+
 
 
 
