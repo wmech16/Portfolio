@@ -179,7 +179,7 @@ a:link {
   #nav-son ul li {
     list-style-type: none; }
 #nav-son {
-    padding-left: 27px;
+    padding-left: 74px;
     line-height: 38px;
 }
 #nav-son  li {
@@ -279,8 +279,8 @@ h6 {
 }
 
 .me {
-    padding-top: 10px;
-    margin-top: 20px;
+    
+/*    margin-top: 20px;*/
     
 }
 
@@ -322,6 +322,11 @@ h6 {
 .devvitimg {
     width: 300px;
     height: auto;
+}
+
+.fa {
+    font-size: 1.5em;
+    padding-top: 3px;
 }
 
 
