@@ -213,7 +213,7 @@ iPad 3
 @media only screen  and (min-width : 1824px) {
 	#header {
 		height: 100vh;
-		font-size: 10em;
+		font-size: 15em;
 	}
 	#portfolio {
 		height: 140vh;
@@ -224,10 +224,10 @@ iPad 3
 	}
 }
 
-@media only screen  and (min-width : 2560px) {
+@media only screen and (min-width : 2560px) {
 	#header {
 		height: 80vh;
-		font-size: 12em;
+		font-size: 1em;
 	}
 	#portfolio {
 		height: 130vh;
